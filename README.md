@@ -1,2 +1,5 @@
-# Goody
-Hello world Am
+public class README{
+    public static void main(String[] args){
+        System.out.print("Hi");
+    }
+}
